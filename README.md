@@ -1,6 +1,12 @@
 # Rulers
 A QuickSearch Tool to help you boost your work.
 
+# Features
+
+* Quick search the programs in your pc
+* Instantly show search results.
+* Hot key to hide & show the program
+
 # Information
 * Author：MajorWorld
 * Mail：MajorWorld@outlook.com
