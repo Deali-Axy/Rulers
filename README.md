@@ -4,8 +4,10 @@ A QuickSearch Tool to help you boost your work.
 # Features
 
 * Quick search the programs in your pc
+* In the result list , press enter to start the program , press Ctrl to locate the program
 * Instantly show search results.
-* Hot key to hide & show the program
+* Hot key (Alt+Space) to hide & show the program
+* Fuzzy search (initial search support)
 
 # Information
 * Author：MajorWorld
